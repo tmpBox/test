@@ -31,6 +31,8 @@ public class TestServlet extends HttpServlet {
 		response.setContentType("text/html; charset=UTF-8");
 		
 		System.out.println("test입니다.");
+		System.out.println("test2입니다.");
+		System.out.println("test3입니다.");
 	}
 
 	/**
